@@ -8,12 +8,12 @@
 
 # OpenClaw 使用说明：
 # 1. 如果已有配置（从备份恢复），直接启动：
-#    su - runner -c 'openclaw'
+ su - runner -c 'openclaw'
 # 2. 如果是首次使用，需要先配置：
 #    su - runner -c 'openclaw onboard'
 # 3. 安装为守护进程（开机自动启动）：
 #    su - runner -c 'openclaw onboard --install-daemon'
 
 # 自动启动示例（取消注释以使用）：
-# su - runner -c 'cd ~/.openclaw && openclaw' &
+su - runner -c 'cd ~/.openclaw && openclaw' &
 
