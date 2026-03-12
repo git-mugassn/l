@@ -1,0 +1,4 @@
+6000,18789 http://default-l.mugassn.dpdns.org
+
+# Serveo SSH Key Fingerprint:
+# SHA256:r6vYvzdEbSz58LHu0YUxqJ5U1cuaA96ryU0eUC5nhGs
